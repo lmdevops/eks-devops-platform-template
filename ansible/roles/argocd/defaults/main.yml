@@ -1,9 +1,0 @@
----
-
-argocd_namespace: argocd
-argocd_release_name: argocd 
-argocd_chart_repo: "https://argoproj.github.io/argo-helm"
-argocd_chart_name: "argo-cd"
-argocd_chart_version: "5.51.4"
-argocd_service_type: NodePort
-argocd_values: {}
