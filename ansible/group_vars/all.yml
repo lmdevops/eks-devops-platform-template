@@ -1,6 +1,0 @@
----
-argocd_chart_repo: "https://argoproj.github.io/argo-helm"
-argocd_chart_name: "argo-cd"
-argocd_chart_version: "5.51.4"
-git_repo_url: "https://github.com/KHDevOps/eks-scalable-devops-platform"
-git_branch: "readmev2"

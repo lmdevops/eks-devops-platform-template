@@ -1,6 +1,0 @@
----
-# Variables spécifiques à ArgoCD en environnement dev
-argocd_namespace: argocd
-argocd_release_name: argocd
-argocd_service_type: NodePort  # Typique pour Minikube
-argocd_apps_dir: "{{ playbook_dir }}/../../ci-cd/argocd/applications/dev"
