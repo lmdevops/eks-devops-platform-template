@@ -34,8 +34,8 @@ Fork this repository on GitHub by clicking the "Fork" button
 Clone your forked repository:
 
 ```bash
-git clone git@github.com:<username>/eks-scalable-devops-platform.git
-cd eks-scalable-devops-platform
+git clone git@github.com:<username>/eks-devops-platform-template.git
+cd eks-devops-platform-template
 ```
 
 ### Configure AWS CLI
