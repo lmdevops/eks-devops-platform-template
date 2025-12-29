@@ -12,7 +12,7 @@ spec:
       helm:
         valueFiles:
           - $values/kubernetes/helm-values/dev/ingress-nginx/values.yaml
-    - repoURL: https://github.com/KHDevOps/eks-scalable-devops-platform
+    - repoURL: https://github.com/lmdevops/eks-devops-platform-template
       targetRevision: main
       ref: values
   destination:

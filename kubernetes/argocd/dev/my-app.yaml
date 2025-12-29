@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/KHDevOps/eks-scalable-devops-platform
+    repoURL: https://github.com/lmdevops/eks-devops-platform-template
     path: kubernetes/app/overlays/dev
     targetRevision: main
   destination:
